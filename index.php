@@ -36,8 +36,8 @@ function display_msg($msg =''){
         <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">
-			<i class="rt-icon2-cross2"></i>
-		</span>
+            <i class="rt-icon2-cross2"></i>
+        </span>
             </button>
             <div class="widget widget_search">
 
@@ -379,9 +379,9 @@ function display_msg($msg =''){
 
                                             <div class="special-heading text-left">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Welcome to Tipatone	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Welcome to Tipatone </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-0840d59" class="fw-divider-space "></div>
@@ -389,7 +389,7 @@ function display_msg($msg =''){
                                             <div class="special-heading text-left">
                                                 <p class=" paragraph">
                                                     <span class="darkgrey regular text-transform-none ">
-                                            Tipatone Limited is a full service digital agency. With providing full services based on data driven advertising, brand presence and social media advertising we create well rounded up story in order to fulfill your goals.	
+                                            Tipatone Limited is a full service digital agency. With providing full services based on data driven advertising, brand presence and social media advertising we create well rounded up story in order to fulfill your goals.   
                                             </span>
                                                 </p>
                                             </div>
@@ -434,9 +434,9 @@ function display_msg($msg =''){
 
                                             <div class="special-heading text-center">
                                                 <h2 class="section_header margin_0  ">
-	<span class="lightfont regular text-transform-none ">
-		OUR SERVICES	</span>
-	</h2>
+    <span class="lightfont regular text-transform-none ">
+        OUR SERVICES    </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-c8126ce" class="fw-divider-space "></div>
@@ -444,7 +444,7 @@ function display_msg($msg =''){
                                             <div class="special-heading text-center">
                                                 <p class=" paragraph">
                                                     <span class="greyfont regular text-transform-none ">
-		We are dedicated to provide the highest level of digital marketing services tailored to suit the clients needs	</span>
+        We are dedicated to provide the highest level of digital marketing services tailored to suit the clients needs  </span>
                                                 </p>
                                             </div>
 
@@ -665,9 +665,9 @@ THINGS WE DO:<br>
 
                                             <div class="special-heading text-center">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Our Clients	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Our Clients </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-3419816" class="fw-divider-space "></div>
@@ -675,7 +675,7 @@ THINGS WE DO:<br>
                                             <div class="special-heading text-center">
                                                 <p class=" paragraph">
                                                     <span class="darkgrey regular text-transform-none ">
-			</span>
+            </span>
                                                 </p>
                                             </div>
 
@@ -697,21 +697,21 @@ THINGS WE DO:<br>
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				        </a>
+                        </a>
         </h6>
                                                             <span class="highlight"></span>
                                                             <div class="content-body">
                                                                <!-- <div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div> -->
                                                                 <!-- eof social icons -->
@@ -720,7 +720,7 @@ THINGS WE DO:<br>
                                                                 </div>
                                         <!--                        <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Irene Shayo" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                                 </div>-->
                                                             </div>
                                                         </div>
@@ -737,21 +737,21 @@ THINGS WE DO:<br>
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				      </a>
+                      </a>
         </h6>
                                                             <span class="highlight"></span>
                                                             <div class="content-body">
                                                                 <!--<div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div> -->
                                                                 <!-- eof social icons -->
@@ -761,7 +761,7 @@ THINGS WE DO:<br>
                                                                 </div>
                                                               <!--  <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Fides Mbuya" class="theme_button wide_button color1">
-					Read More                </a> 
+                    Read More                </a> 
                                                                 </div>-->  
                                                             </div>
                                                         </div>
@@ -778,21 +778,21 @@ THINGS WE DO:<br>
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				      </a>
+                      </a>
         </h6>
                                                             <span class="highlight"></span>
                                                             <div class="content-body">
                                                        <!--         <div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div> -->
                                                                 <!-- eof social icons -->
@@ -802,7 +802,7 @@ THINGS WE DO:<br>
                                                                 </div>
                                                                <!--  <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Rita Akena" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                                 </div> -->
                                                             </div>
                                                         </div>
@@ -861,21 +861,21 @@ THINGS WE DO:<br>
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/christian-woods/">
-				Christian Woods            </a>
+                Christian Woods            </a>
         </h6>
                                                     <span class="highlight">Financial Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -884,7 +884,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/christian-woods/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -901,21 +901,21 @@ THINGS WE DO:<br>
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/don-aguilar/">
-				Don Aguilar            </a>
+                Don Aguilar            </a>
         </h6>
                                                     <span class="highlight">Family Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -924,7 +924,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/don-aguilar/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -941,21 +941,21 @@ THINGS WE DO:<br>
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/dennis-greer/">
-				Dennis Greer            </a>
+                Dennis Greer            </a>
         </h6>
                                                     <span class="highlight">Civil Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -964,7 +964,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/dennis-greer/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -993,9 +993,9 @@ THINGS WE DO:<br>
 
                                             <div class="special-heading text-center">
                                                 <h3 class="section_header margin_0  ">
-	<span class="lightfont regular text-transform-none ">
-		4 Years of Experience in Providing Effective Digital Solutions	</span>
-	</h3>
+    <span class="lightfont regular text-transform-none ">
+        4 Years of Experience in Providing Effective Digital Solutions  </span>
+    </h3>
                                             </div>
 
                                             <div id="divider-d3e0d53" class="fw-divider-space "></div>
@@ -1003,14 +1003,14 @@ THINGS WE DO:<br>
                                             <div class="special-heading text-center">
                                                 <p class=" paragraph">
                                                     <span class="lightfont regular text-transform-none ">
-		It is not exhaustive since throught our experience we understand<br> that a client’s needs are always diverse and dynamic.	</span>
+        It is not exhaustive since throught our experience we understand<br> that a client’s needs are always diverse and dynamic.  </span>
                                                 </p>
                                             </div>
 
                                             <div id="divider-2bd8edb" class="fw-divider-space "></div>
 
                                             <a href="docs/Tipatone Digital Marketing Profile.pdf" target="_self" class="theme_button dark wide_button ">
-	Our Profile</a>
+    Our Profile</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1031,9 +1031,9 @@ THINGS WE DO:<br>
 
                                             <div class="special-heading text-center">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Why Choose Us	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Why Choose Us   </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-8e8910a" class="fw-divider-space "></div>
@@ -1041,7 +1041,7 @@ THINGS WE DO:<br>
                                             <div class="special-heading text-center">
                                                 <p class=" paragraph">
                                                     <span class="darkgrey regular text-transform-none ">
-		Our company offers  digital solutions  help and we act only in <br> accordance with widely recognized moral principles.	</span>
+        Our company offers  digital solutions  help and we act only in <br> accordance with widely recognized moral principles. </span>
                                                 </p>
                                             </div>
 
@@ -1176,9 +1176,9 @@ THINGS WE DO:<br>
 
                                             <div class="special-heading text-left">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Contact us by sending a Request	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Contact us by sending a Request </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-6970815" class="fw-divider-space "></div>
@@ -1186,7 +1186,7 @@ THINGS WE DO:<br>
                                             <div class="special-heading text-left">
                                                 <p class=" paragraph">
                                                     <span class="greyfont regular text-transform-none ">
-		Due to our long time experience in many areas we will help you to find the best solution on any issue.</span>
+        Due to our long time experience in many areas we will help you to find the best solution on any issue.</span>
                                                 </p>
                                             </div>
 
@@ -1283,9 +1283,9 @@ THINGS WE DO:<br>
 
                                     <div class="special-heading text-center">
                                         <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Latest News	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Latest News </span>
+    </h2>
                                     </div>
 
                                     <div id="divider-3dc0b6a" class="fw-divider-space "></div>
@@ -1293,7 +1293,7 @@ THINGS WE DO:<br>
                                     <div class="special-heading text-center">
                                         <p class=" paragraph">
                                             <span class="darkgrey regular text-transform-none ">
-		All of our company’s latest news and press releases can be <br> found here, as it‘s the only place for their publishing	</span>
+        All of our company’s latest news and press releases can be <br> found here, as it‘s the only place for their publishing </span>
                                         </p>
                                     </div>
 
@@ -1324,7 +1324,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <h5 class="item-title">
             <a href="http://webdesign-finder.com/sample-post-with-youtube-video/">
-				Sample Post With Youtube Video            </a>
+                Sample Post With Youtube Video            </a>
         </h5>
                                                         <hr class="divider_60_2 main_bg_color transparent divider_20">
                                                         <p>Lorem ipsum dolor sit amet, ipsum patrioque te vim, ut ius dicant nullam alterum. Vis an semper regione antiopam. Est modus labitur deleniti ex. Scripta liberavisse cu cum, vide prodesset at est, quot gubergren necessitatibus ne cum.</p>
@@ -1348,7 +1348,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <h5 class="item-title">
             <a href="http://webdesign-finder.com/sample-post-with-image/">
-				Sample Post With Image            </a>
+                Sample Post With Image            </a>
         </h5>
                                                         <hr class="divider_60_2 main_bg_color transparent divider_20">
                                                         <p>Eam ad soleat insolens elaboraret, audire mnesarchum efficiantur in ius, nominavi eleifend in eam. Facer saperet ornatus eu sea, no eum affert eruditi accommodare, ut stet reque nec. Ei nec utroque percipitur, eum malorum theophrastus vituperatoribus ad.</p>
@@ -1372,7 +1372,7 @@ THINGS WE DO:<br>
                                                         </div>
                                                         <h5 class="item-title">
             <a href="http://webdesign-finder.com/sample-post-with-carousel/">
-				Sample Post With Carousel            </a>
+                Sample Post With Carousel            </a>
         </h5>
                                                         <hr class="divider_60_2 main_bg_color transparent divider_20">
                                                         <p>Et pro diam clita eripuit, aperiri scaevola accusamus eu vel. Illum blandit similique amet usu, commodo alienum probatus pro ex, sed id wisi deserunt. Dolore populo vocent has mei, ius ex modo dicat indoctum.</p>

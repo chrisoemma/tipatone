@@ -18,6 +18,8 @@
             background: none !important;
             padding: 0 !important;
         }
+
+        
     </style>
     <link rel='stylesheet' id='wp-block-library-css' href='includes/css/style.min.css?ver=5.1.3' type='text/css' media='all' />
     <link rel='stylesheet' id='booked-icons-css' href='theme/plugins/booked_assets/icons.css?ver=2.3.6' type='text/css' media='all' />

@@ -13,8 +13,8 @@
     <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">
-			<i class="rt-icon2-cross2"></i>
-		</span>
+            <i class="rt-icon2-cross2"></i>
+        </span>
         </button>
         <div class="widget widget_search">
 
@@ -48,7 +48,7 @@
                     <div class="row">
                         <div class="col-sm-12 text-center">
                             <h2 class="breadcrumbs-title">
-					Contacts                </h2>
+                    Contacts                </h2>
                             <ol class="breadcrumb">
                                 <li class="first-item">
                                     <a href="index.php">Home</a></li>
@@ -83,9 +83,9 @@
 
                                     <div class="special-heading text-left">
                                         <h3 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Contact Form	</span>
-	</h3>
+    <span class="highlight regular text-transform-none ">
+        Contact Form    </span>
+    </h3>
                                     </div>
 
                                     <div id="divider-dd90dc3" class="fw-divider-space "></div>
@@ -172,9 +172,9 @@
 
                                     <div class="special-heading text-left">
                                         <h3 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Contact Info	</span>
-	</h3>
+    <span class="highlight regular text-transform-none ">
+        Contact Info    </span>
+    </h3>
                                     </div>
 
                                     <div id="divider-7023415" class="fw-divider-space "></div>
@@ -190,7 +190,7 @@
                                                     </div>
                                                     <div class="media-body">
                                                         <span class="text">
-								 NHC Buidling, Mnazi Mmoja Dar es salaam, Tanzania							</span>
+                                 NHC Buidling, Mnazi Mmoja Dar es salaam, Tanzania                          </span>
                                                     </div>
                                                 </div>
                                             </li>
@@ -203,7 +203,7 @@
                                                     </div>
                                                     <div class="media-body">
                                                         <span class="text">
-								<a href="mailto:mail@tipatone.co.tz">mail@tipatone.co.tz</a>							</span>
+                                <a href="mailto:mail@tipatone.co.tz">mail@tipatone.co.tz</a>                            </span>
                                                     </div>
                                                 </div>
                                             </li>
@@ -216,7 +216,7 @@
                                                     </div>
                                                     <div class="media-body">
                                                         <span class="text">
-								+255 742 280 346 <br>+255 717 989 668							</span>
+                                +255 742 280 346 <br>+255 717 989 668                           </span>
                                                     </div>
                                                 </div>
                                             </li>
@@ -229,7 +229,7 @@
                                                     </div>
                                                     <div class="media-body">
                                                         <span class="text">
-								24 hours a day, 7 days a week							</span>
+                                24 hours a day, 7 days a week                           </span>
                                                     </div>
                                                 </div>
                                             </li>

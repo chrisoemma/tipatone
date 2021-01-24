@@ -13,8 +13,8 @@
         <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">
-			<i class="rt-icon2-cross2"></i>
-		</span>
+            <i class="rt-icon2-cross2"></i>
+        </span>
             </button>
             <div class="widget widget_search">
 
@@ -69,9 +69,9 @@
 
                                             <div class="special-heading text-left">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Free Consultation	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Free Consultation   </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-6970815" class="fw-divider-space "></div>
@@ -79,7 +79,7 @@
                                             <div class="special-heading text-left">
                                                 <p class=" paragraph">
                                                     <span class="greyfont regular text-transform-none ">
-		Due to our long time experience in many areas we will help you to find the best solution on any issue.	</span>
+        Due to our long time experience in many areas we will help you to find the best solution on any issue.  </span>
                                                 </p>
                                             </div>
 

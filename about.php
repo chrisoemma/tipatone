@@ -13,8 +13,8 @@
         <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">
-			<i class="rt-icon2-cross2"></i>
-		</span>
+            <i class="rt-icon2-cross2"></i>
+        </span>
             </button>
             <div class="widget widget_search">
 
@@ -61,9 +61,9 @@
 
                                             <div class="special-heading text-left">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Welcome to Tipatone	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Welcome to Tipatone </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-0840d59" class="fw-divider-space "></div>
@@ -71,7 +71,7 @@
                                             <div class="special-heading text-left">
                                                 <p class=" paragraph">
                                                     <span class="darkgrey regular text-transform-none ">
-                                            Tipatone Limited is a full-service digital solutions provider providing innovative marketing and advertising solutions to its domestic as well as international clients. 	
+                                            Tipatone Limited is a full-service digital solutions provider providing innovative marketing and advertising solutions to its domestic as well as international clients.    
                                             </span>
                                                 </p>
                                             </div>

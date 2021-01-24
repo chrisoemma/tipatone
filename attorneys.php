@@ -13,8 +13,8 @@
         <div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                 <span aria-hidden="true">
-			<i class="rt-icon2-cross2"></i>
-		</span>
+            <i class="rt-icon2-cross2"></i>
+        </span>
             </button>
             <div class="widget widget_search">
 
@@ -59,9 +59,9 @@
 
                                             <div class="special-heading text-center">
                                                 <h2 class="section_header margin_0  ">
-	<span class="highlight regular text-transform-none ">
-		Our Clients and Testimonies	</span>
-	</h2>
+    <span class="highlight regular text-transform-none ">
+        Our Clients and Testimonies </span>
+    </h2>
                                             </div>
 
                                             <div id="divider-3419816" class="fw-divider-space "></div>
@@ -69,7 +69,7 @@
                                             <div class="special-heading text-center">
                                                 <p class=" paragraph">
                                                     <span class="darkgrey regular text-transform-none ">
-		We have the team of experts and they are ready to<br> help you anytime and anywhere.	</span>
+        We have the team of experts and they are ready to<br> help you anytime and anywhere.    </span>
                                                 </p>
                                             </div>
 
@@ -91,21 +91,21 @@
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				Sebastian Gangata       </a>
+                Sebastian Gangata       </a>
         </h6>
                                                             <span class="highlight">Managing Director: Keke Insurance Brokers</span>
                                                             <div class="content-body">
                                                                 <div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div>
                                                                 <!-- eof social icons -->
@@ -114,7 +114,7 @@
                                                                 </div>
                                                               <!--  <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Irene Shayo" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                                 </div> -->
                                                             </div>
                                                         </div>
@@ -131,21 +131,21 @@
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				Laura Mosha           </a>
+                Laura Mosha           </a>
         </h6>
                                                             <span class="highlight">Co-Founder of Glo-Africana Manufucturers</span>
                                                             <div class="content-body">
                                                                 <div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div>
                                                                 <!-- eof social icons -->
@@ -155,7 +155,7 @@
                                                                 </div>
                                                             <!--    <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Fides Mbuya" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                                 </div> -->
                                                             </div>
                                                         </div>
@@ -172,21 +172,21 @@
                                                         <div class="item-content ds">
                                                             <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="#">
-				Bertha         </a>
+                Bertha         </a>
         </h6>
                                                             <span class="highlight">Managing Director: 3rd Dream Travels</span>
                                                             <div class="content-body">
                                                                 <div class="team-social-icons">
                                                                     <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                                 </div>
                                                                 <!-- eof social icons -->
@@ -196,7 +196,7 @@
                                                                 </div>
                                                                <!-- <div class="item-button topmargin_30">
                                                                     <a href="member.php?Attorney=Rita Akena" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                                 </div>-->
                                                             </div>
                                                         </div>
@@ -213,21 +213,21 @@
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/christian-woods/">
-				Christian Woods            </a>
+                Christian Woods            </a>
         </h6>
                                                     <span class="highlight">Financial Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -236,7 +236,7 @@
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/christian-woods/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -253,21 +253,21 @@
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/don-aguilar/">
-				Don Aguilar            </a>
+                Don Aguilar            </a>
         </h6>
                                                     <span class="highlight">Family Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -276,7 +276,7 @@
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/don-aguilar/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -293,21 +293,21 @@
                                                 <div class="item-content ds">
                                                     <h6 class="item-title text-uppercase inline-block rightmargin_5 bottommargin_0">
             <a href="http://webdesign-finder.com/member/dennis-greer/">
-				Dennis Greer            </a>
+                Dennis Greer            </a>
         </h6>
                                                     <span class="highlight">Civil Lawyer</span>
                                                     <div class="content-body">
                                                         <div class="team-social-icons">
                                                             <span class="social-icons">
-				<a href="https://www.facebook.com/#"
-			   class="social-icon soc-facebook "  target="_blank"></a>
-						<a href="https://www.twitter.com/#"
-			   class="social-icon soc-twitter "  target="_blank"></a>
-						<a href="https://youtube.com/#"
-			   class="social-icon soc-youtube "  target="_blank"></a>
-						<a href="https://www.plus.google.com/#"
-			   class="social-icon soc-google "  target="_blank"></a>
-			</span>
+                <a href="https://www.facebook.com/#"
+               class="social-icon soc-facebook "  target="_blank"></a>
+                        <a href="https://www.twitter.com/#"
+               class="social-icon soc-twitter "  target="_blank"></a>
+                        <a href="https://youtube.com/#"
+               class="social-icon soc-youtube "  target="_blank"></a>
+                        <a href="https://www.plus.google.com/#"
+               class="social-icon soc-google "  target="_blank"></a>
+            </span>
 
                                                         </div>
                                                          eof social icons 
@@ -316,7 +316,7 @@
                                                         </div>
                                                         <div class="item-button topmargin_30">
                                                             <a href="http://webdesign-finder.com/member/dennis-greer/" class="theme_button wide_button color1">
-					Read More                </a>
+                    Read More                </a>
                                                         </div>
                                                     </div>
                                                 </div>
